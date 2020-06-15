@@ -4,16 +4,16 @@ Justice Kitchen is an open-source platform for creating local directories of Bla
 
 ## Data Preparation
 
-### Gathering the data
+### 1. Gathering the data
 All the listings in Justice Kitchen are generated from data stored as a JSON file (content.json), which can be easily generated from a Google Sheet. For example, Dallas data is drawn from [this spreadsheet](https://docs.google.com/spreadsheets/d/1IGP0DQ9henUsGmpqLdINxo9V2xNVirBj98uQpay_pIM/edit?usp=sharing). The Codebook tab of the spreadsheet should help explain the format for some of the fields needed.
 
 To collect data within your community, it can be helpful to use a [Google Form similar to this one](https://docs.google.com/forms/d/e/1FAIpQLSf2xRPHNpI4lFWYTsvmwf5_TBTcWXr7dZvMDQMN64XOEz0qgg/viewform?usp=sf_link) (do not submit responses, thank you).
 
-### Geocoding locations
+### 2. Geocoding locations
 
 Geocoding (turning locations into values of latitude and longitude) can be done many ways. I use a Google Sheets add-on called [Geocode by Awesome Table](https://gsuite.google.com/marketplace/app/geocode_by_awesome_table/904124517349).
 
-### Exporting the data
+### 3. Exporting the data
 
 To export the spreadsheet data to a JSON, I use a Google Sheets add-on called [Export Sheet Data](https://gsuite.google.com/marketplace/app/export_sheet_data/903838927001?pann=cwsdp&hl=en). Download the file and use it to replace content.json.
 

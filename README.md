@@ -40,6 +40,6 @@ Because Justice Kitchen is a static site, it can be hosted on any website hostin
 
 ## License
 
-This work is released under the GNU General Public License v2.0. You may use it how you see fit, so long as you credit the author visibly. Addendum: uses or derivatives of this code base must be used in support of Black communities. That's what I made it for. If in doubt, ask at @coreyaustinhere.
+This work is released under the GNU General Public License v2.0. Addendum: uses or derivatives of this code base must be used in support of Black communities. That's what we made it for. If in doubt, ask at [@coreyaustinhere](https://twitter.com/coreyaustinhere).
 
 

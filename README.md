@@ -1,3 +1,7 @@
+<p align="center">
+<img src="Preview.png?raw=true"></img>
+</p>
+
 # Justice Kitchen
 
 Justice Kitchen is an open-source platform for creating local directories of Black-owned restaurants or other Black-owned businesses. This readme aims to make it easy to set up a Justice Kitchen site in your own community. Creating your own version of the site is easy, requiring two major steps:
@@ -16,6 +20,10 @@ Geocoding (turning locations into values of latitude and longitude) can be done 
 ### 3. Exporting the data
 
 To export the spreadsheet data to a JSON, I use a Google Sheets add-on called [Export Sheet Data](https://gsuite.google.com/marketplace/app/export_sheet_data/903838927001?pann=cwsdp&hl=en). Download the file and use it to replace content.json.
+
+
+
+
 
 ## Site Configuration
 
@@ -46,8 +54,7 @@ Currently, some content in index.html reflects Dallas specifically or credits re
 Because Justice Kitchen is a static site, it can be hosted on any website hosting platform. I like AWS best because it keeps costs down, but it can be complex for beginners. [Here is a tutorial]([https://medium.com/@itsmattburgess/hosting-a-https-website-using-aws-s3-and-cloudfront-ee6521df03b9](https://medium.com/@itsmattburgess/hosting-a-https-website-using-aws-s3-and-cloudfront-ee6521df03b9)) for hosting the site the way I did.
 
 
-## License
-
+## License and Credits
 This work is released under the GNU General Public License v2.0. Addendum: uses or derivatives of this code base must be used in support of Black communities. That's what we made it for. If in doubt, ask at [@coreyaustinhere](https://twitter.com/coreyaustinhere).
 
-
+Original Dallas restaurant data provided by Rosin Saez, Dalila Thomas, Abby Blasingame, and Scott Luther. Strategy by Helina Seyoum, Trey Green, Trent Walters, and Chris Ferrel. Code by Corey Austin.

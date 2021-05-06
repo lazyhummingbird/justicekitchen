@@ -55,6 +55,6 @@ Because Justice Kitchen is a static site, it can be hosted on any website hostin
 
 
 ## License and Credits
-This work is released under the GNU General Public License v2.0. Addendum: uses or derivatives of this code base must be used in support of Black communities. That's what we made it for. If in doubt, ask at [@coreyaustinhere](https://twitter.com/coreyaustinhere).
+This work is released under the GNU General Public License v2.0. Addendum: uses or derivatives of this code base must be used in support of BIPOC or AAPI communities. If in doubt, ask at [@coreyaustinhere](https://twitter.com/coreyaustinhere).
 
 Original Dallas restaurant data provided by Rosin Saez, Dalila Thomas, Abby Blasingame, and Scott Luther. Strategy by Helina Seyoum, Trey Green, Trent Walters, and Chris Ferrel. Code by Corey Austin.
